@@ -1,5 +1,5 @@
-#Ingresar nombre y apellido e imprimirlo al revés
-
+# Ingresar nombre y apellido e imprimirlo al revés
+# Realizado por Nicolás Solano
 
 nombre = input("Por favor ingrese su nombre: ")
 apellido = input("Por favor ingrese su apellido: ")

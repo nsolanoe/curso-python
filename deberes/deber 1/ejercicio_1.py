@@ -1,4 +1,5 @@
-#multiplicar 2 numeros sin usar el signo de multiplicar
+# multiplicar 2 numeros sin usar el signo de multiplicar
+# Realizado por Nicolás Solano
 
 num1 = int(input("ingrese primer numero"))
 num2 = int(input("ingrese segundo numero"))
